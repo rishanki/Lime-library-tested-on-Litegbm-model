@@ -7,3 +7,5 @@ On each permutation, a linear model is being fit and weights are given so that i
  
  Here we have built a model using the famous Litegbm classification package and tried explaining this complex model using LIME.
  
+ Note: The telecom churn data can be found on- https://www.ibm.com/communities/analytics/watson-analytics-blog/predictive-insights-in-the-telco-customer-churn-data-set/
+ 
