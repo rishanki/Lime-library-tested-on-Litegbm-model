@@ -1,4 +1,4 @@
-#Explaining Compplex models like Litegbm using the LIME package.
+Explaining Complex models like Litegbm using the LIME package.
 
 The following notebook explores the famous lime library package which was published in
 “Why Should I Trust You?” Explaining the Predictions of Any Classifier. By Marco Tulio Ribeiro, Sameer Singh and Carlos Guestrin from the University of Washington in Seattle(https://arxiv.org/pdf/1602.04938.pdf) . lime is able to explain all models for which we can obtain prediction probabilities. It makes use of the fact that linear models are easy to explain because they are based on linear relationships between features and class labels: The complex model function is approximated by locally fitting linear models to permutations of the original training set.
